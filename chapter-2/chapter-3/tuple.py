@@ -1,6 +1,6 @@
 # Tuple — immutable, faster than list
 point = (10, 20, 30)
-point.count(10)     # কতবার আছে
+point.count(10)     # count
 point.index(20)     # position
 
 # nested tuple/list
